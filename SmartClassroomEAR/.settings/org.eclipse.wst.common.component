@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="SmartClassroomEAR">
         <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
-        <dependent-module archiveName="SmartClassroomEJB.jar" deploy-path="/" handle="module:/resource/SmartClassroomEJB/SmartClassroomEJB">
-            <dependent-object/>
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
         <dependent-module archiveName="SmartClassroomWAR.war" deploy-path="/" handle="module:/resource/SmartClassroomWAR/SmartClassroomWAR">
             <dependent-object/>
             <dependency-type>uses</dependency-type>

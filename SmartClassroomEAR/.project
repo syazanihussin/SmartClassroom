@@ -3,7 +3,6 @@
 	<name>SmartClassroomEAR</name>
 	<comment></comment>
 	<projects>
-		<project>SmartClassroomEJB</project>
 		<project>SmartClassroomWAR</project>
 	</projects>
 	<buildSpec>
